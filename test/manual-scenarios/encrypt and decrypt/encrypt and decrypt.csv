@@ -1,0 +1,17 @@
+1,Open the extension.,,The Welcome Back screen is shown.,
+2,Proceed to Unlock the wallet.,password (8 characters min).,"The Ether balance is shown on the overview.
+The wallet address is shown on the overview.
+The selected network is Ethereum Mainnet.",
+3,Switch networks to a test network.,e.g. Sepolia.,"Toggle 'Show test networks' in settings if needed.
+Switch network via network selector to Sepolia.
+The Sepolia balance is shown on the overview.
+The wallet address is shown on the overview.
+The selected network is Sepolia.",
+4,Open the test dapp in another tab.,https://rolanapp.github.io/test-dapp/,,
+5,Proceed to Connect with rolanApp.,,,
+6,Connect with the current account.,,,
+7,"On testdapp, click ""Get encryption key"".",,Request encryption public key notification screen is shown.,
+8,Proceed to confirm get encryption key in notification window.,,The encryption key is displayed on testdapp page.,
+9,"On testdapp encrypt/decrypt section enter message and click ""Encrypt"".",e.g. Hello,,Encrypted message displayed; copy it.,
+10,"Paste copied encrypted message and click ""Decrypt"". ",,,Decrypt request notification screen appears.,
+11,Confirm decrypt message in notification,e.g. Hello,"Decrypted message matches original input."
